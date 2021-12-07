@@ -27,3 +27,10 @@
  var tangMot = a++;
 
  var giamMot = a--;
+
+ var number = 6;
+ var output = number++ + --number
+// number++ -> 6
+// number = 7
+// --number -> 6 ==> output = 6 + 6 = 12
+
